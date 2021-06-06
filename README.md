@@ -42,7 +42,7 @@ Simbolika
 > Trīs kulturvesturīsko apgabalu: Kurzemi, Vidzemi, Latgali
 
 #### 5. (*) Kurš ir augstākais Latvijas valsts apbalvojums ?
-> Triju zvaigžņu ordenis
+> Triju Zvaigžņu ordenis
 
 Latvijas ģeogrāfija
 ---------------------
@@ -250,7 +250,7 @@ Jaunāko laiku Latvijas vēsture
 > Latvija kļūst par pilntiesīgu Eiropas Savienības dalībvalsti.
 
 #### 38. (*) Kurš ir pašreizējais Latvijas Valsts prezidents?
-> Raimonds Vējonis.
+> Egils Levits (8 July 2019)
 
 Kultūra un latviešu tautas tradīcijas
 ---------------------
