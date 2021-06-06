@@ -250,7 +250,7 @@ Jaunāko laiku Latvijas vēsture
 > Latvija kļūst par pilntiesīgu Eiropas Savienības dalībvalsti.
 
 #### 38. (*) Kurš ir pašreizējais Latvijas Valsts prezidents?
-> Egils Levits (8 July 2019)
+> Egils Levits (amata sākums - 2019. gada 8. jūlijs)
 
 Kultūra un latviešu tautas tradīcijas
 ---------------------
