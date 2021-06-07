@@ -99,7 +99,7 @@ Latvijas vēsture līdz 20.gadsimtam
 > Polijas – Lietuvas, Krievijas, Zviedrijas pakļautībā
 
 #### 4. Kādi bija Krievijas impērijas mērķi cīņā par Latvijas teritoriju 18.gs.?
-> Pieieja Baltijas jūrai, neazisalstosas ostas iegūšana.
+> PPiekļuve Baltijas jūrai, neazisalstosas ostas iegūšana - "Logs uz Eiropu", cīņa par lielo tirzniecības ceļu kontroli.
 
 #### 5. Kurā gadsimtā sāka darboties pirmās latviešu skolas?
 > 16. gadsimta otrajā pusē
@@ -144,9 +144,9 @@ Jaunāko laiku Latvijas vēsture
 
 > 1917.gadā Ziemassvētku kaujas (Rīgas aizstāvēšana).
 
-> 1917. gada janvāra otrajā pusē - Tīreļa purvs
+> 1917.gada janvāra otrajā pusē - Tīreļa purvs
 
-> 1917. gada septembrī kaujas pie Mazās Juglas
+> 1917.gada septembrī kaujas pie Mazās Juglas
 
 #### 5. Kāds nozīmīgs notikums pasaulē 1918.gadā veicināja neatkarīgas Latvijas valsts izveidošanos?
 > Brestļitovskas miera līgums
