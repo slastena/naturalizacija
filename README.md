@@ -144,6 +144,10 @@ Jaunāko laiku Latvijas vēsture
 
 > 1917.gadā Ziemassvētku kaujas (Rīgas aizstāvēšana).
 
+> 1917. gada janvāra otrajā pusē - Tīreļa purvs
+
+> 1917. gada septembrī kaujas pie Mazās Juglas
+
 #### 5. Kāds nozīmīgs notikums pasaulē 1918.gadā veicināja neatkarīgas Latvijas valsts izveidošanos?
 > Brestļitovskas miera līgums
 
