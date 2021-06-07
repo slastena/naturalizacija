@@ -99,7 +99,7 @@ Latvijas vēsture līdz 20.gadsimtam
 > Polijas – Lietuvas, Krievijas, Zviedrijas pakļautībā
 
 #### 4. Kādi bija Krievijas impērijas mērķi cīņā par Latvijas teritoriju 18.gs.?
-> (?) Pieieja Baltijas jūrai
+> Pieieja Baltijas jūrai, neazisalstosas ostas iegūšana.
 
 #### 5. Kurā gadsimtā sāka darboties pirmās latviešu skolas?
 > 16. gadsimta otrajā pusē
