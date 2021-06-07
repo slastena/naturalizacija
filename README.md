@@ -81,7 +81,7 @@ Latvijas iedzīvotāji
 > Kurši, zemgaļi, latgaļi, sēļi, lībieši
 
 #### 4. Kuras ir lielākās nacionālās minoritātes (mazākumtautības) Latvijā?
-> Krievi, baltkrievi, ukraiņi
+> Krievi (baltkrievi, ukraiņi), poļi, lietuvieši, igauņi, ebreji, čigāni.
 
 #### 5. Kā padomju okupācijas gados izmainījās laviešu īpatsvars Latvijas iedzīvotāju vidū?
 > Samazinājās
