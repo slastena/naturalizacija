@@ -251,7 +251,7 @@ Jaunāko laiku Latvijas vēsture
 > Apvienoto Nāciju Organizācijā (ANO), Eiropas Savienībā (ES), NATO.
 
 #### 37. Kāpēc Latvijā ir nozīmīgs 2004.gada 1.maijs?
-> Latvija kļūst par pilntiesīgu Eiropas Savienības dalībvalsti.
+> Latvija kļuva par pilntiesīgu Eiropas Savienības dalībvalsti.
 
 #### 38. (*) Kurš ir pašreizējais Latvijas Valsts prezidents?
 > Egils Levits (amata sākums - 2019. gada 8. jūlijs)
