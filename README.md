@@ -260,7 +260,8 @@ Kultūra un latviešu tautas tradīcijas
 ---------------------
 
 #### 1. Kādu kultūras mantojumu latviešu tauta ir saglabājusi gadsimtu gaitā?
-> Rīgas vēsturiskais centrs kur atrodas viduslaiku apbūve un jūgendstila celtnes. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valoda.
+> Rīgas vēsturiskais centrs, kur atrodas viduslaiku apbūve un jūgendstila celtnes. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valodā.
+
 #### 2. Kādu folkloras žanru latvieši ir saglabājuši un izmantojuši gadsimtu gaitā?
 > Dainas
 
@@ -271,13 +272,13 @@ Kultūra un latviešu tautas tradīcijas
 > Latviešu tautas atmoda
 
 #### 5. Kāpēc Rīgas vēsturiskais centrs ir atzīts par pasaules nozīmes kultūras mantojumu?
-> Pateicoties _Jūgendstila pērlei_
+> Pateicoties tā samērā neskartajai viduslaiku un vēlākajai pilsētbūvnieciskajai struktūrai, jūgendstila arhitektūras piesātinājumam un kvalitātei, kā arī 19. gs. koka arhitektūrai.
 
 #### 6. Kura ir nozīmīgākā F.B.Rastrelli projektētā baroka celtne Latvijā?
 > Rundāles pils
 
 #### 7. Kāpēc latviešu kultūrā ir nozīmīgs Krišjānis Barons?
-> Bija viens no Latvijas "pirmās atmodas" galveniem ideologiem. 1894.gada Krišjānis Barons sistematizēja un izdota tautasdziesmu grāmatu: „Latviju Dainu”
+> Bija viens no Latvijas "pirmās atmodas" galveniem ideologiem. 1894.gada Krišjānis Barons sistematizēja un izdeva tautasdziesmu grāmatu: „Latviju Dainu”
 
 #### 8. (*) Kāda nozīmīga Latvijas kultūras dzīves tradīcija aizsākās Rīgā 1873. gadā?
 > Pirmie vispārējie latviešu dziesmu svētki.
@@ -292,16 +293,16 @@ Kultūra un latviešu tautas tradīcijas
 > Literatūras un teātra attīstība
 
 #### 12. Kuri ir latviešu glezniecības vecmeistari?
-> Janis Rozentāls, Vilhelms Purvītis 
+> Kārlis Hūns, Janis Rozentāls, Leo Svemps, Vilhelms Purvītis, Kārlis Miesnieks, Ģederts Eliass, Oto Skulme
 
 #### 13. Ar ko ievērojams latviešu teātra mākslas attīstībā ir Ādolfs Alunāns?
-> Vadīja Rīgas Latviešu teātri, popularizēja teātra mākslu, nodibināja "Alunāna teātri" Jelgavā.
+> Vadīja Rīgas Latviešu teātri (RLT), režisors, dramaturgs, popularizēja teātra mākslu, nodibināja "Alunāna teātri" Jelgavā.
 
 #### 14. Kuriem režisoriem ir nozīmīga loma latviešu teātra mākslas attīstībā laikā no 20.gs. 20. līdz 60. gadiem?
 > Eduards Smiļģis (Dailes teātris), Alfreds Amtmanis-Briedītis (Latvijas Nacionālā teātris)
 
 #### 15. Ar ko ievērojams latviešu mākslas attīstībā ir Vilhelms Purvītis?
-> Viens no latviešu nacionālās glezniecības skolas aizsācējiem
+> Viens no latviešu nacionālās glezniecības skolas aizsācējiem, ainavas meistars, Mākslas akadēmijas rektors.
 
 #### 16. Ar ko ievērojams latviešu kultūrā ir Jāzeps Vītols?
 > Radījis daudz pazīstamu skaņdarbu balsij un klavierēm, simfonijas un kora balādes. Ar savu daiļradi viņš ir pacēlis līdz klasiskajam līmenim daudzus latviešu mūzikas žanrus un ar savu darbību strauji virzījis uz priekšu profesionālo mūziku Latvijā.
@@ -326,13 +327,15 @@ Kultūra un latviešu tautas tradīcijas
 > Nacionālais operas teātris, Valsts Filharmonija, Doma baznīca, Valsts konservatorija
 
 #### 23. Kuras nozīmīgas vēsturiskas ēkas Rīgā tika atjaunotas pēc neatkarības atgūšanas?
-> Melngalvju nams, Rīgas Doms, Latvijas Nacionālais mākslas muzejs
+> Melngalvju nams, Rīgas Doms, Rīgas rātsnams, Latvijas Nacionālā opera, Nacionālais teātris.
 
 #### 24. Kuri kultūras darbinieki/kolektīvi pēc neatkarības atjaunošanas ir ieguvuši augstu atzinību ārpus Latvijas robežām?
 > Operdziedātāji Inese Galante, Inga Kalna, Sonora Vaice, Egils Siliņš. Diriģents Mariss Jansons, komponists Pēteris Vasks, vijolnieks Gidons Krēmers ar kamerorķestri “Kremerata Baltica”, kori “Ave Sol”, “Kamēr...”, “Gaudeamus”. Brainstorm, Marija Naumova
 Elīna Garanča (mecosoprāns), Inese Galante (soprāns) Marija Naumova, Prāta Vētra, Intars Busulis ...
+
 #### 25. Kādus tradicionālus svētkus svin Latvijā?
-> Metenis, Lieldienas, Usinš, Jāņa diena, Māras diena, Miķeli, Mārtiņu, Ziemassvētki.
+> Ziemassvētki, Lieldienas, Jāņa diena, Miķeli
+> Meteņi, Jurģu diena, Māras diena, Miķeli, Mārtiņi
 
 #### 26. (*) Kurus gadskārtu svētkus Latvijā svin jūnijā?
 > Jāņi (Līgosvētki)
@@ -340,15 +343,15 @@ Elīna Garanča (mecosoprāns), Inese Galante (soprāns) Marija Naumova, Prāta 
 #### 27. Kas raksturīgs Jāņu (Līgosvētku), Lieldienu un Ziemassvētku svinēšanai Latvijā?
 > Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.
 
-> Olu krāsošana
+> Olu krāsošana, šūpošanās šūpolēs
 
-> Tradcionāli Ziemassvētku ēdieni ir zirņi un pupas. Jautraie masku gājieni
+> Tradicionāli Ziemassvētku ēdieni ir vārīti zirņi un cūkas šņukurs. Budēļu gājieni (tērpušies dažāās maksās), zīlēšana
 
 Reliģija
 ---------------------
 
 #### 1. Kuras ir trīs lielākās reliģiskās konfesijas Latvijā?
-> Katolicisms, Ļuteranisms, Pareizticība
+> Katolicisms, Ļuterānisms, Pareizticība
 
 #### 2. Kas raksturo valsts un baznīcas attiecības mūsdienu Latvijā?
 > Baznīca ir atdalīta no valsts; ticības tolerance un ticības brīvība.
@@ -369,7 +372,7 @@ Latvijas Republikas Satversme
 > Saeima
 
 #### 5. Kā ievēlē Saeimu?
-> Latvijas pilsoņi vispārīgās , vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās.
+> Latvijas pilsoņi vispārīgās, vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās.
 
 #### 6. (*) No cik gadu vecuma pilsoņi iegūst tiesības vēlēt Saeimu?
 > No 18 gadu vecuma
@@ -396,7 +399,11 @@ Latvijas Republikas Satversme
 > 2 termiņus pēc kārtas
 
 #### 14. Kādas ir Valsts prezidenta sešas pamatpilnvaras?
-> Reprezentēt valsti starptautiski. Ir valsts bruņoto spēku augstākais vadonis. Ierosināt Saiemas atlaišanu. Izvēlēties amatpersonu, kurai jāsastāda Ministru Kabinets. Sasaukt ārkārtējās valdības sēdes. Izsludināt likumus.
+> Reprezentēt valsti starptautiski. 
+> Ir valsts bruņoto spēku augstākais vadonis. 
+> Ierosināt Saiemas atlaišanu. 
+> Izvēlēties amatpersonu, kurai jāsastāda Ministru Kabinets. 
+> Sasaukt ārkārtējās valdības sēdes. Izsludināt likumus.
 
 #### 15. (*) Kam Latvijā pieder augstākā izpildvara?
 > Ministru kabinetam.
@@ -405,7 +412,9 @@ Latvijas Republikas Satversme
 > Persona, kurai šo misiju uztic Latvijas valsts prezidents.
 
 #### 17. Kādos gadījumos Ministru kabinetam (valdībai) ir jāatkāpjas?
-> Ja Saeima izsaka neuzticību Ministru prezidentam un Ministru kabinetam kopumā. Ja Saeima neapstiprina budžetu. Ja beidzās termiņš.
+> Ja Saeima izsaka neuzticību Ministru prezidentam un Ministru kabinetam kopumā. 
+> Ja Saeima neapstiprina budžetu. 
+> Ja beidzās termiņš.
 
 #### 18. Kādas ir Ministru kabineta (valdības) pamatpilnvaras?
 > Ministru kabinetam pieder likumu ierosināšanas tiesības un tiesības iecelt vai apstiprināt amatos daļu civildienesta ierēdņu.
@@ -427,7 +436,9 @@ Latvijas Republikas Satversme
 > Saeima
 
 #### 22. Kādos gadījumos ir nepieciešama tautas nobalsošana?
-> Satversmes 1.,2.,3.,4.,6. un 77.panta grozīsanas gadījumā. Ja valsts prezidents ierosina atlaist Saeimu. Tiek apturēta likuma publicēšana un nobalsošanu pieprasa 1/10 daļa vēlētāju.
+> Satversmes 1.,2.,3.,4.,6. un 77.panta grozīsanas gadījumā.
+> Ja valsts prezidents ierosina atlaist Saeimu. 
+> Tiek apturēta likuma publicēšana un nobalsošanu pieprasa 1/10 daļa vēlētāju.
 
 #### 23. (*) Kas apstiprina Latvijas valsts budžetu?
 > Saeima.
@@ -457,7 +468,7 @@ Latvijas Republikas Satversme
 > Ikvienam Latvijas iedzīvotājam.
 
 #### 32. Kādos gadījumos valsts aizsargā sapulču, gājienu, mītiņu un piketu brīvību?
-> Ieprikš pieteiktus miermīlīgus piketus, sapulces, mītiņus un gājienus.
+> Iepriekš pieteiktus miermīlīgus piketus, sapulces, mītiņus un gājienus.
 
 #### 33. (*) Kas aizsargā arodbiedrību brīvību Latvijā?
 > Latvijas pilsoņiem
@@ -557,7 +568,7 @@ Mutvārdu pārbaudes jautājumi
 #### 4. Latvija Polijas - Lietuvas un Zviedrijas varā
 
 ##### Latvija Polijas - Lietuvas varā (1561 - 1795)
-> 1558.gadā Livonijai uzbruka Krievija un Livonijasabruka, taču to pārņēma Polijas-Lietuvas karaliste un visa Latvijas teritorija nonāca Polijas-Lietuvas varā.
+> 1558.gadā Livonijai uzbruka Krievija un Livonija sabruka, taču to pārņēma Polijas-Lietuvas karaliste un visa Latvijas teritorija nonāca Polijas-Lietuvas varā.
 
 ##### Kurzemes hercogiste
 > 1561.gadā. Kurzemē uz Zemgalē izveidoja hercogisti, kurā valdīja vecie vācu ordeņa vadītāji.
