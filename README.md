@@ -182,61 +182,73 @@ Jaunāko laiku Latvijas vēsture
 > Parlamentārā demokrātiskā republika.
 
 #### 16. Ar ko Latvijas vēsturē ir zīmīgs 1934.gada 15.maijs?
-> Antikonstitucionālais valsts apvērsums
+> Antikonstitucionālais valsts apvērsums: Ministru prezidents Kārlis Ulmanis kopā ar saviem atbalstītājiem veica antikonstitucionālu valsts apvērsumu, izveidojot autoritāru režīmu.
 
 #### 17. Kāds politiskais režīms bija Latvijā laikā no 1934.-1940. gadam?
 > Autoritārisms
 
 #### 18. Kāda bija K. Ulmaņa režīma attieksme pret politiskajām partijām pēc 1934.gada 15.maija?
-> Visu partiju darbība tika pārtraukta
+> Visu partiju darbība tika pārtraukta: Saeima tika atlaista, politisko partiju darbība tika pārtraukta. 
+> Tika slēgti preses izdevumi un liels skaits dažādu biedrību un apvienību. Tas nodrošināja autoritārā režīma netraucētu darbošanos.
 
 #### 19. (*) Kā sauc pieminekli, kuru par tautas saziedotajiem līdzekļiem atklāja 1935. gadā Rīgā?
-> Brīvības pieminekli
+> Brīvības piemineklis
 
 #### 20. Kādas sekas Latvijai bija Molotova – Ribentropa 1939.gada 23.augusta līgumam?
-> Latvija zaudēja neatkarību
+> Tika noslēgts slepenais protokols, kas paredzēja ietekmes sfēru sadalījumu starp PSRS un Vācijas valstīm Austrumeiropā.
+> Latvija zaudēja neatkarību: Latvijas valsts teritorija tika uzskatīta par PSRS ietekmes zonu.
 
 #### 21. Kas notika Latvijā 1940.gada 17.jūnijā?
-> Padomju Krievijas armija iegāja Latvijas teritorijā. Sākās Latvijas okupācija
+> Padomju Krievijas armija iegāja Latvijas teritorijā. Sākās Latvijas okupācija.
+> Sovjetizācijas process jeb padomju sistēmas strauja ieviešana bija jau agrāk izplānota un tika realizēta plānveidīgi. 
+> Tas attiecās uz izmaiņām valsts pārvaldē, uz “brīvprātīgo iekļaušanos” PSRS sastāvā, kā arī visas saimnieciskās sistēmas pārkārtošanu, likvidējot privātīpašumu.
 
 #### 22. Kāpēc 14. jūnijs ir atceres diena Latvijā?
-> Pirmā Latvijas iedzīvotāju deportācija uz Sibiriju
+> Pirmā Latvijas iedzīvotāju deportācija uz Sibiriju.
+> Aptuveni 14 000 cilvēkus kā pretvalstiski noskaņotus elementus bez tiesas sprieduma izsūtīja (deportēja) uz Sibīriju. 
+> Tie bija latviešu politiskās un saimnieciskās inteliģences un elites pārstāvji un viņu ģimenes locekļi bez dzimuma vai vecuma ierobežojuma. 
+> Dauzi veci cilvēki un zīdaiņi izsūtījuma galamērķi nesasniedza, jo mira ceļā. 
+> 14. jūnijs Latvijā tiek atzīmēta kā komunistiskā genocīda upuru piemiņas diena.
 
 #### 23. Kas notika ar Latvijas vācbaltu (Baltijas vāciešu) mazākumtautību laikā no 1939. gada līdz 1941.gadam?
-> Repatriācija Vācijā
+> Vācu tautības Latvijas iedzīvotāju repatriācija – atgriešanās etniskajā dzimtenē.
 
 #### 24. Kāda bija nacistiskās Vācijas attieksme pret Latvijas valsts neatkarību (1941 - 1945)?
-> Negatīva, noliedzoša.
+> Negatīva, noliedzoša: netika pat pieļauta ideja par valstisko neatkarību, bet tika ieviesta sava – okupācijas pārvaldes sistēma.
 
 #### 25. Kas notika ar Latvijas ebrejiem un čigāniem Otrā pasaules kara laikā?
-> Tika iznīcināti
+> Tika iznīcināti.
+> Pret abām šīm tautām vācieši visās vācu un okupētajās teritorijās realizēja holokaustu sistemātisku cilvēku iznīcināšanu pēc piederības noteiktai tautībai.
 
 #### 26. Kuru valstu armijās cīnījās latviešu karavīri Otrajā pasaules karā?
-> Gan vācu, gan padomju armijās.
+> Gan vācu, gan padomju armijās. Latviešu cīņas savstarpēji karojošo lielvaru armijās uzskatāmas par 20.gadsimta vienu no lielākajām tautas traģēdijām.
 
 #### 27. Kas notika ar lielo Latvijas iedzīvotāju daļu Otrā pasaules kara beigās?
-> Emigrēja uz ārzemēm.
+> Emigrēja uz ārzemēm. Daudzi latvieši devās bēgļu gaitā, baidoties no padomju režīma represiju atkārtošanās, tāpēc aptuveni 200 – 250 tūkstoši cilvēku devās trimdā.
 
 #### 28. Kāpēc 25. marts ir atceres diena Latvijā?
 > Otrā Latvijas iedzīvotāju deportācija.
+> 1949.gada 25. martā daudzas ģimenes, it īpaši no laukiem, tika arestētas kā pretvalstiski noskaņotas un deportētas uz Sibīriju. 
+> Šoreiz izsūtījumā nonāca vairāk kā 40 tūkstoši cilvēku. Arī šoreiz lopu vagonos izsūtīšanai tika sadzīti gan mazi bērni, gan veci cilvēki. 
+> Bieži vien, lai savāktu nepieciešamo skaitu, arestēti tika pat īpašajos sarakstos neiekļautie cilvēki. 25. marts Latvijā tiek atzīmēta kā komunistiskā genocīda upuru piemiņas diena.
 
 #### 29. Kādi radikāli pārkārtojumi ietekmēja lauksaimniecības attīstību Latvijā pēc Otrā pasaules kara?
 > Kolektivizācija.
+> Individuālajiem zemniekiem tika noteiktas milzīgas valsts nodevas, kas praktiski bija neizpildāmas, tāpēc zemniekus varēja tiesāt par kaitēšanu padomju režīmam vai arī panāca viņu atteikšanos no zemes. 
+> Pēc 1949.gada 25. marta deportācijām kolektivizācijas process, pamatojoties uz bailēm, notika piespiedu kārtā. 1950.gadā jau 96% zemnieku saimniecības bija iekļautas kolektīvajās saimniecībās.
 
 #### 30. Kā Latvijā tika realizēta rūpniecības attīstība padomju varas gados?
 > Ievedot izejvielas un darbaspēku no citām republikām.
 
 #### 31. Kādi bija nacionālkomunistu darbības mērķi Latvijā 20.gs. 50.gadu beigās?
+> Ievērojamākie pārstāvji: Eduards Berklavs un Vilis Krūmiņš. 
 > Industrializācijas samazināšana.
-
 > Imigrācijas samazināšana.
-
 > Proporcionālā saimniecības attīstīšana.
-
 > Latviešu valodas lietošanas paplašināšana.
 
 #### 32. Kurai sabiedriski politiskajai organizācijai bija izšķirošā loma Latvijas valsts neatkarības atjaunošanā?
-> Latvijas tautas frontei. LTF.
+> Latvijas tautas frontei. LTF, tika nodibināta 1988.gada 7.oktobrī, priekšsēdētajs - Dainis Īvāns
 
 #### 33. (*) Kādu nozīmīgu dokumentu 1990.gada 4.maijā pieņēma LPSR Augstākā Padome?
 > Deklarāciju par Latvijas republikas neatkarības atjaunošanu.
@@ -260,10 +272,11 @@ Kultūra un latviešu tautas tradīcijas
 ---------------------
 
 #### 1. Kādu kultūras mantojumu latviešu tauta ir saglabājusi gadsimtu gaitā?
+> Galvenais un nozīmīgākais latviešu kultūras mantojums ir tautas mutvārdu daiļrade – tās ir latviešu tautas dainas, tautasdziesmas, pasakas un sakāmvārdi jeb folklora.
 > Rīgas vēsturiskais centrs, kur atrodas viduslaiku apbūve un jūgendstila celtnes. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valodā.
 
 #### 2. Kādu folkloras žanru latvieši ir saglabājuši un izmantojuši gadsimtu gaitā?
-> Dainas
+> Latviešu tautas dainas, tautasdziesmas, pasakas un sakāmvārdi jeb folklora
 
 #### 3. Kuri latviešu tautas materiālās kultūras žanri ir saglabājuši būtisku nozīmi līdz mūsdienām?
 > Keramika, mūzikas instrumenti, dzintara izstrādājumi
@@ -278,13 +291,13 @@ Kultūra un latviešu tautas tradīcijas
 > Rundāles pils
 
 #### 7. Kāpēc latviešu kultūrā ir nozīmīgs Krišjānis Barons?
-> Bija viens no Latvijas "pirmās atmodas" galveniem ideologiem. 1894.gada Krišjānis Barons sistematizēja un izdeva tautasdziesmu grāmatu: „Latviju Dainu”
+> “Dainu tēvs”, bija viens no Latvijas "pirmās atmodas" galveniem ideologiem. 1894.gada Krišjānis Barons sistematizēja un izdeva tautasdziesmu grāmatu: „Latviju Dainu”
 
 #### 8. (*) Kāda nozīmīga Latvijas kultūras dzīves tradīcija aizsākās Rīgā 1873. gadā?
 > Pirmie vispārējie latviešu dziesmu svētki.
 
 #### 9. (*) Kā sauc latviešu tautas eposu?
-> "Lāčplēsis"
+> Andreja Pumpura "Lāčplēsis", izdots 1888.gadā.
 
 #### 10. Kāpēc latviešu kultūrā ir nozīmīgs Rainis?
 > Rainis bija latviešu dzejnieks, dramaturgs, tulkotājs, teātra darbinieks, sociāldemokrātiskais žurnālists un politiķis. Būtiski ietekmēja literārās latviešu valodas attīstību. Viens no Jaunās strāvas kustības pārstāvjiem.
@@ -341,7 +354,7 @@ Elīna Garanča (mecosoprāns), Inese Galante (soprāns) Marija Naumova, Prāta 
 > Jāņi (Līgosvētki)
 
 #### 27. Kas raksturīgs Jāņu (Līgosvētku), Lieldienu un Ziemassvētku svinēšanai Latvijā?
-> Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.
+> Ozollapu vai dažādu zāļu vainagi,dziesmu dziedāšana, ugunskuru dedzināšana naktī un cienāšanās ar alu un sieru.
 
 > Olu krāsošana, šūpošanās šūpolēs
 
@@ -363,16 +376,17 @@ Latvijas Republikas Satversme
 > Tautai
 
 #### 2. (*) Kādas krāsas ir Latvijas valsts karogā?
-> Sarkans ar baltu strīpu
+> Sarkans ar baltu svītru
 
 #### 3. (*) Kura ir valsts valoda Latvijā?
 > Latviešu
 
 #### 4. Kam Latvijā pieder augstākā likumdošanas vara?
-> Saeima
+> Saeimai, kā arī tautai
 
 #### 5. Kā ievēlē Saeimu?
 > Latvijas pilsoņi vispārīgās, vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās.
+> Saeimas vēlēšanas izdarāmas oktobra mēneša pirmajā sestdienā. 
 
 #### 6. (*) No cik gadu vecuma pilsoņi iegūst tiesības vēlēt Saeimu?
 > No 18 gadu vecuma
@@ -399,38 +413,43 @@ Latvijas Republikas Satversme
 > 2 termiņus pēc kārtas
 
 #### 14. Kādas ir Valsts prezidenta sešas pamatpilnvaras?
-> Reprezentēt valsti starptautiski. 
-> Ir valsts bruņoto spēku augstākais vadonis. 
-> Ierosināt Saiemas atlaišanu. 
-> Izvēlēties amatpersonu, kurai jāsastāda Ministru Kabinets. 
-> Sasaukt ārkārtējās valdības sēdes. Izsludināt likumus.
+
+1.	Tiesības ierosināt Saeimas atlaišanu. Šajā gadījumā ir jārīko tautas nobalsošana un, ja tauta ir pret Saeimas atlaišanu, tad jāatkāpjas ir prezidentam.
+2.	Izvēlas amatpersonu, kura sastādīs Ministru kabinetu. Šo kandidatūru vēl būs jāapstiprina Saeimai.
+3.	Iespējas ietekmēt likumdošanu: iesniegt likumprojektus, pieprasīt Saeimai pārskatīt likumus, u.c.
+4.	Reprezentē valsti starptautiski. Ieceļ Latvijas diplomātus un akreditē ( apstiprina) citu valstu diplomātus Latvijā.
+5.	Ir valsts bruņoto spēku augstākais vadonis un ieceļ virspavēlnieku kara gadījumam. Mūsdienu Latvijā ir Nacionālās drošības padomes priekšsēdētājs un līdz ar to iesaka Nacionālo bruņoto spēku komandiera kandidatūru.
+6.	Ir tiesības sasaukt un vadīt ārkārtas valdības sēdes vai pieprasīt ārkārtējas Saeimas sēdes vai sesijas sasaukšanu.
+Ir 7.: 
+7.	Noziedznieku apžēlošanas tiesības. Amnestiju dod Saeima.
+
 
 #### 15. (*) Kam Latvijā pieder augstākā izpildvara?
 > Ministru kabinetam.
 
 #### 16. Kas izveido Ministru kabinetu (valdību)?
-> Persona, kurai šo misiju uztic Latvijas valsts prezidents.
+> MK sastāda persona, kuru uzaicina Valsts prezidents.
 
 #### 17. Kādos gadījumos Ministru kabinetam (valdībai) ir jāatkāpjas?
-> Ja Saeima izsaka neuzticību Ministru prezidentam un Ministru kabinetam kopumā. 
-> Ja Saeima neapstiprina budžetu. 
-> Ja beidzās termiņš.
+> 1. Ja Saeima izsaka neuzticību MK vai personīgi Ministru prezidentam 
+> 2. Ja Saeima neapstiprina budžetu. 
+> 3. Ja beigušās Saeima pilnvaras un sanākui jauna Saeima
+
+Arī var zaudēt varu brīvpratīgi atkāpjoties.
 
 #### 18. Kādas ir Ministru kabineta (valdības) pamatpilnvaras?
-> Ministru kabinetam pieder likumu ierosināšanas tiesības un tiesības iecelt vai apstiprināt amatos daļu civildienesta ierēdņu.
-> Ministru kabinets var izdot normatīvus aktus - noteikumus šādos gadījumos:
-> 1. ja likumā noteiktas īpašas pilnvaras jeb deleģējums Ministru kabinetam;
-> 2. ja attiecīgais jautājums nav noregulēts ar likumu.
->
-> Ministru kabinets un atsevišķs ministrs var izdot sev padotajām institūcijām saistošas instrukcijas:
-> 1. ja likums vai noteikumi Ministru kabinetu vai atsevišķu ministru tam īpaši pilnvaro;
-> 2. ja attiecīgais jautājums ar likumu vai noteikumiem nav noregulēts.
+> 1.	Apspriež visus atsevišķo ministriju izstrādātos likumprojektus un ir tiesīgs iesniegt tos Saeimā.
+> 2.	Savās sēdēs apspriež konkrētus valsts iekšpolitikas un ārpolitikas jautājumus.
+> 3.	Sastāda un iesniedz Saeimas izskatīšanai valsts budžeta projektu.
+> 4.	Ir tiesības izsludināt izņēmuma stāvokli kara vai stihisku nelaimu gadījumā
+> 5.	Ir padotas valsts pārvaldes iestādes.
+
 
 #### 19. Kas var iesniegt Saeimai likumprojektus?
-> Valsts prezidents, Ministru kabinets un Saeimas komisijas, Saeimas deputāti, Latvijas pilsoņi
+> Valsts prezidents, valdība, Saemas komisijas, ne mazāk ka pieci deputāti un desmitā daļa vēlētāju.
 
 #### 20. Kuri likumi nevar tikt nodoti tautas nobalsošanai?
-> Budžets un likumi par aizņēmumiem, nodokļiem, muitām, dzelzceļa tarifiem, kara klausību, kara pasludināšanu un uzsākšanu, miera noslēgšanu, izņēmuma stāvokļa izsludināšanu un tā izbeigšanu, mobilizāciju un demobilizāciju, kā arī līgumus ar ārvalstīm
+> Budžets un likumi par aizņēmumiem, nodokļiem, muitām, dzelzceļa tarifiem, karaklausību, kara pasludināšanu un uzsākšanu, miera noslēgšanu, izņēmuma stāvokļa izsludināšanu un tā izbeigšanu, mobilizāciju un demobilizāciju, kā arī līgumus ar ārvalstīm
 
 #### 21. (*) Kas apstiprina tiesnešus amatā?
 > Saeima
